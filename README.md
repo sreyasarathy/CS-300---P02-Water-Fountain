@@ -1,4 +1,4 @@
-# CS-300---P02-Water-Fountain
+CS 300 - P02 Water Fountain 
 This assignment involves developing a graphical implementation of a particle system. Particle
 systems have long been used in computer graphics to render amorphous objects like: fire,
 clouds, and water. The idea behind this technique is to use several small images or shapes
